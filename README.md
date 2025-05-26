@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Frontend Developer | Aspiring Fullstack Developer</p>
+<p align="left"><b>Frontend Developer | Aspiring Fullstack Developer</b></p>
 <p align="left">Frontend developer focused on creating smooth and engaging user experiences. Now exploring backend development to grow into a full-stack role.</p>
 
 ###
